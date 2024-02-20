@@ -1,1 +1,2 @@
 # YOLOv8-Classification-On-Custom-Dataset-Recipe-Ingredients
+"Our project utilizes YOLOv8, a state-of-the-art object detection model, for the classification of recipe ingredients. By training YOLOv8 on a dataset of recipe images, we've created a robust system capable of accurately identifying and classifying various ingredients within recipes. This innovative approach streamlines ingredient recognition processes, facilitating efficient recipe analysis and enhancing culinary research and development."
